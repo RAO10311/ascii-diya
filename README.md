@@ -75,6 +75,3 @@ darkness, first sparks, expansion and formation.
 * `AnimationController`: the five stages and the final composition of every cell's glyph and colour.
 
 
-## Original creator and source
-
-This repository contains a copy of the project originally created by **Jaym-0**. Original repository: https://github.com/Jaym-0/ascii-diya
